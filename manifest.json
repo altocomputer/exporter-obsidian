@@ -3,8 +3,8 @@
   "name": "Exporter",
   "version": "0.1.0",
   "minAppVersion": "1.0.0",
-  "description": "Decorate exported Apple Notes and Bear Notes with native app icons. Open notes in their source app from Obsidian.",
+  "description": "Decorate exported Apple Notes and Bear Notes with native app icons. Open notes in their source app.",
   "author": "Alto Computer",
-  "authorUrl": "https://github.com/altocomputer/exporter-obsidian",
+  "authorUrl": "https://alto.so",
   "isDesktopOnly": true
 }
