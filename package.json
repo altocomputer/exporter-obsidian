@@ -1,7 +1,7 @@
 {
   "name": "@altocomputer/exporter-obsidian",
   "version": "0.1.0",
-  "description": "Obsidian plugin for exported Apple Notes and Bear notes",
+  "description": "Obsidian plugin for exported Apple Notes and Bear Notes",
   "private": true,
   "type": "module",
   "scripts": {
