@@ -6,6 +6,8 @@ Decorates `notes://` and `bear://` links with native app icons and lets you open
 
 Works with [Notes Exporter](https://apps.apple.com/us/app/notes-exporter/id6741618455?mt=12) for Apple Notes and any Bear export that includes source URLs in frontmatter.
 
+![screenshot](screenshot.png)
+
 ## Features
 
 - native app icons on `notes://` and `bear://` links in reading view, live preview, and properties panel
