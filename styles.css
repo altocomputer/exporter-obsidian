@@ -16,8 +16,9 @@
 a.exporter-source-link .external-link-icon {
   display: none;
 }
-a.exporter-source-link::after {
-  display: none !important;
+a.exporter-source-link[href^="notes://"]::after,
+a.exporter-source-link[href^="bear://"]::after {
+  display: none;
 }
 
 .exporter-view-action-icon {
