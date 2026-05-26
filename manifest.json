@@ -5,6 +5,6 @@
   "minAppVersion": "1.0.0",
   "description": "Decorate exported Apple Notes and Bear Notes with native app icons. Open notes in their source app.",
   "author": "Alto Computer",
-  "authorUrl": "https://alto.so",
+  "authorUrl": "https://altocomputer.com",
   "isDesktopOnly": true
 }
