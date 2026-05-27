@@ -1,4 +1,4 @@
-# Exporter
+# Notes Exporter
 
 Capture in Apple Notes, think in Obsidian.
 
@@ -89,11 +89,11 @@ If you've already left Apple Notes and just need a one-time import, Obsidian Imp
 
 ### From Obsidian community plugins
 
-Search for "Exporter" in Settings > Community plugins > Browse.
+Search for "Notes Exporter" in Settings > Community plugins > Browse.
 
 ### Manual
 
-Copy `main.js`, `manifest.json`, and `styles.css` to your vault at `.obsidian/plugins/exporter/`.
+Copy `main.js`, `manifest.json`, and `styles.css` to your vault at `.obsidian/plugins/notes-exporter/`.
 
 ## Development
 
