@@ -1,6 +1,6 @@
 {
-  "id": "exporter",
-  "name": "Exporter",
+  "id": "notes-exporter",
+  "name": "Notes Exporter",
   "version": "0.1.0",
   "minAppVersion": "1.0.0",
   "description": "Decorate exported Apple Notes and Bear Notes with native app icons. Open notes in their source app.",
